@@ -1,13 +1,8 @@
 - DDL（Data Definition Language）语句： 数据定义语言，主要是进行定义/改变表的结构、数据类型、表之间的链接等操作。常用的语句关键字有 CREATE、DROP、ALTER 等。
 
-<br>
-
 - DML（Data Manipulation Language）语句: 数据操纵语言，主要是对数据进行增加、删除、修改操作。常用的语句关键字有 INSERT、UPDATE、DELETE 等。
 
-<br>
 - DQL（Data Query Language）语句：数据查询语言，主要是对数据进行查询操作。常用关键字有 SELECT、FROM、WHERE 等。
-
-<br>
 - DCL（Data Control Language）语句： 数据控制语言，主要是用来设置/更改数据库用户权限。常用关键字有 GRANT、REVOKE 等。
 
 >> 一般人员很少用到DCL语句。
